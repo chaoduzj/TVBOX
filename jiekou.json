@@ -1,4 +1,5 @@
 {
+  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=m3u&ext=aHR0cDovL2lwdHYuNjc0ODY3OTUueHl6LzRrZmlmYS5tM3U="]}]}],
   "sites": [
     {
       "key": "liangzi",
